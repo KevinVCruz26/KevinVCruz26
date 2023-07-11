@@ -1,4 +1,11 @@
-<h1>Hi, I'm Kevin, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm Kevin,
+
+  
+  
+  [IT Professional](www.linkedin.com/in/kevin-cruz-b82109261)
+  </h1> 
+www.linkedin.com/in/kevin-cruz-b82109261
+<a href="www.linkedin.com/in/kevin-cruz-b82109261">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
