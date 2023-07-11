@@ -2,8 +2,7 @@
 
   
   
-  [IT Professional](www.linkedin.com/in/kevin-cruz-b82109261)
-  </h1> 
+  [IT Professional](www.linkedin.com/in/kevin-cruz-b82109261)</h1> 
 www.linkedin.com/in/kevin-cruz-b82109261
 <a href="www.linkedin.com/in/kevin-cruz-b82109261">
 
